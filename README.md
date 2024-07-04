@@ -2,7 +2,7 @@
 - 👀 I’m interested in web design
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to evolve my skills
-- 📫 reach me on " zoobda21@gmail.com "
+- 📫 reach me on " rfartas83@gmail.com "
 
 <!---
 RamziFartas/RamziFartas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
