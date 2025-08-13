@@ -2,7 +2,7 @@
 - 👀 I’m interested in web design
 - 🌱 I enjoy building sites & apps. My focus is React (Next.js).
 - 💞️ I’m looking to evolve my skills
-- 📫 reach me on " portfolio.minzo.pro "
+- 📫 reach me on " dev.revtoy.shop "
 
 <!---
 RamziFartas/RamziFartas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
